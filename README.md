@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**ismailooli/ismailooli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey there, and welcome to my Github 👋
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/ismail-mohammad-663780213/" target="_blank">
+  <img align="left" alt="Ismail's LinkdeIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<hr>
+I love talking.
+<br>
+<br>
+💬 Ask me about: 
+- Anime, C++, and Photoshop 
+
+-------
+
+Public Contributions             |  Top Languages
+:-------------------------:|:-------------------------:
+![](https://github-readme-stats.vercel.app/api?username=ismailooli&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailooli&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=html,css)
+
