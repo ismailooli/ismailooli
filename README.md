@@ -22,4 +22,4 @@ Public Contributions             |  Top Languages
 
 
 <!--Pokemon Sprite-->
-![image](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png)
+![image](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png)
