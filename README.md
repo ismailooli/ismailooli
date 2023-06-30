@@ -1,11 +1,12 @@
-### Hi there 👋
-
-### Hey there, and welcome to my Github 👋
+### Wassup, my names Ismail Mohammad 
 
 <a href="https://www.linkedin.com/in/ismail-mohammad-663780213/" target="_blank">
   <img align="left" alt="Ismail's LinkdeIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"/>
 </a>
 
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://64.media.tumblr.com/e2e4d66f9b38602d500fa992267bfb9f/tumblr_p0crtocc781w4t58uo1_540.gifv)" width="100"/>
+</div>
 <br>
 <hr>
 I love talking.
