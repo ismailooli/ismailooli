@@ -23,4 +23,5 @@ Public Contributions             |  Top Languages
 
 <!--Pokemon Sprite-->
 ![image](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png)
-### Note: Snorlax represents what I do for most of the day if I'm not in school or working
+<br>
+Note: Snorlax represents what I do for most of the day if I'm not in school or working
