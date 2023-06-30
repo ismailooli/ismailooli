@@ -1,4 +1,4 @@
-### Wassup, my names Ismail Mohammad 
+### Salam, my name is Ismail Mohammad 
 
 <a href="https://www.linkedin.com/in/ismail-mohammad-663780213/" target="_blank">
   <img align="left" alt="Ismail's LinkdeIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"/>
