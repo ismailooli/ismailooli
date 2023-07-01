@@ -11,7 +11,7 @@
 <br>
 
 <br>
-<h3>Things I code with</h3>
+<h3> <u> Things I Code With </u> </h3>
 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -25,13 +25,19 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+<br>
 
+<h3> <u> Things I Design With </u> </h3>
 
 <br>
-💬 Ask me about: 
-- Fullmetal Alchemist: Brotherhood
+💬 Ask me about:
+<br>
+- Fullmetal Alchemist: Brotherhood 
+<br>
 - How badly the Chicago Bulls are doing right now..
+<br>
 - Photoshop, Video Editing, Logo Creation
+<br>
 - How I can help in your open source project :)
 
 -------
