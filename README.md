@@ -1,6 +1,6 @@
 ### Salam, my name is Ismail Mohammad  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
-<br/>
+<br>
 <a href="https://www.linkedin.com/in/ismail-mohammad-663780213/" target="_blank">
   <img align="left" alt="Ismail's LinkdeIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"/>
 </a>
@@ -9,12 +9,13 @@
   <img src="https://64.media.tumblr.com/e2e4d66f9b38602d500fa992267bfb9f/tumblr_p0crtocc781w4t58uo1_540.gifv" width="400"/>
 </div>
 <br>
+I'm currently a computer science + economic student from the states &#127482;&#127480;
 
 
 
 <br>
-<h3> <u> Things I Code With </u> </h3>
 
+### Things I Code With 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -28,10 +29,19 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-<br>
 
-<h3> <u> Things I Design With </u> </h3>
+### Things I Design With
+  ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+<br>
 
 <br>
 💬 Ask me about:
@@ -42,7 +52,7 @@
 <br>
 - Photoshop, Video Editing, Logo Creation
 <br>
-- How I can help in your open source project :)
+- How I can help with your project :)
 
 -------
 
