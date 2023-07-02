@@ -66,3 +66,8 @@ Public Contributions             |  Top Languages
 ![image](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png)
 <br>
 Note: Snorlax represents what I do for most of the day if I'm not in school or working
+
+
+--------
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
