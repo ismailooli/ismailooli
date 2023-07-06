@@ -9,8 +9,8 @@
   <img src="https://64.media.tumblr.com/e2e4d66f9b38602d500fa992267bfb9f/tumblr_p0crtocc781w4t58uo1_540.gifv" width="400"/>
 </div>
 <br>
-I'm currently a student studying computer science 💻 + economics 📈. Aside from coding during school, I like to 
-mess around with front-end technologies while also learning about UI/UX. 
+I'm currently a sophomore studying computer science 💻 + economics 📈. Aside from coding during the semester, I like to 
+mess around with front-end technologies while also learning about UI/UX.
 
 
 
