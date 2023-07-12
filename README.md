@@ -72,15 +72,13 @@ mess around with front-end technologies while also learning about UI/UX.
 
 -------
 
-Public Contributions             |  Top Languages
-:-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api?username=ismailooli&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailooli&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=html,css)
 
+![](https://github-readme-stats.vercel.app/api?username=ismailooli&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailooli&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--Pokemon Sprite-->
 ![image](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png)
 <br>
-Note: Snorlax represents what I do for most of the day if I'm not in school or working
 
 
 --------
