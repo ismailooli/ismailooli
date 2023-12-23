@@ -50,22 +50,10 @@ mess around with front-end technologies while also learning about UI/UX.
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
-  ### AI/ML Technologies:
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+ 
   
 
 ----------
-<br>
-💬 Ask me about:
-<br>
-- Fullmetal Alchemist: Brotherhood 
-<br>
-- How badly the Chicago Bulls are doing right now..
-<br>
-- Photoshop, Video Editing, Logo Creation
-<br>
-- How I can help with your project :)
 
 -------
 
