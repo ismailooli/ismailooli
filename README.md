@@ -5,6 +5,10 @@
   <img align="left" alt="Ismail's LinkdeIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"/>
 </a>
 
+<a href="https://ismailm-rho.vercel.app/" target="_blank">
+  <img align="left" alt="portfolio" width="22px" src="https://img.icons8.com/ios/50/ffffff/briefcase.png"/>
+</a>
+
 <div id="header" align="center">
   <img src="https://64.media.tumblr.com/e2e4d66f9b38602d500fa992267bfb9f/tumblr_p0crtocc781w4t58uo1_540.gifv" width="400"/>
 </div>
