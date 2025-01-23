@@ -49,8 +49,7 @@ mess around with front-end technologies while also learning about UI/UX.
 
 -----------
 ## Currently Learning✍: 
-  ### Front End:
-  ![Swift]([https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white])
+  ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
 
 
  
